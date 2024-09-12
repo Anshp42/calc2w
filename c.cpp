@@ -1,6 +1,6 @@
 //* Ansh patel
 //* Calculator 
-//*software design 
+//*num3 is extra
 //*9/12/24
 
 #include<iostream>
